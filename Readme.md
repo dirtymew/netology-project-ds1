@@ -8,5 +8,5 @@
 6. seaborn 0.7.1
 7. sklearn 0.19.0
 8. imblearn 0.3.0
-9. keras 
-10. tensorflow
+9. keras 2.0.8
+10. tensorflow 1.3.0
